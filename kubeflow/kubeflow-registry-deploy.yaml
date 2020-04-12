@@ -34,7 +34,7 @@ spec:
         terminationMessagePath: /dev/termination-log
         terminationMessagePolicy: File
       nodeSelector:
-        private-registry: true
+        private-registry: "true"
       dnsPolicy: ClusterFirst
       restartPolicy: Always
       schedulerName: default-scheduler
