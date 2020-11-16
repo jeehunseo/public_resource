@@ -1,0 +1,16 @@
+{
+  "key1": "value1",
+  "key2": "value2",
+  "list1": [
+    {
+     "item": "item1",
+     "name": "name1" 
+    },
+    {
+     "item": "item2",
+     "name": "name2" 
+    }
+  ],
+  "version": 1
+}
+    
