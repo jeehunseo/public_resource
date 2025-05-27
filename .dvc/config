@@ -3,5 +3,3 @@
 ['remote "mina-s3"']
     url = s3://dvc-bucket
     endpointurl = https://mina.onstickr.com:30844
-    access_key_id = DiXAnQD9ILc3e6myue2e
-    secret_access_key = vmtraA2dRS9l7a6isTFs3iGP3Edks9vALhtdJkJq
